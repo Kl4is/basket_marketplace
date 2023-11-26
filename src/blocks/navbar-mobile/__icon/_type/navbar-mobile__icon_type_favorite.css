@@ -1,0 +1,4 @@
+.navbar-mobile__icon_type_favorite {
+  -webkit-mask-image: url('../../../../img/icons/icon-mobile-favorite.svg');
+  mask-image: url('../../../../img/icons/icon-mobile-favorite.svg');
+}
